@@ -31,7 +31,7 @@ This script helps you create a visual color guide from selected swatches in Illu
 
 ### Instructions:
 
-1. Select the swatches from the Swatches panel (note: global colors cannot be used).
+1. Select the swatches from the Swatches panel <span style='color: orange;'>(⚠️ Warning: global colors cannot be used)</span>
 2. Run the script.
 3. The script generates groups of rectangles for each selected color, displaying their HEX, RGB, and HSL values.
 
