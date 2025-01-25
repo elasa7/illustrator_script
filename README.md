@@ -16,7 +16,7 @@ To export colors from Figma, use the "Color Import/Export" plugin:
 
 1. Select the styles you want to export.
 
-![Figma to Illustrator](image/figma_copy_json)
+![Figma to Illustrator](image/figma_copy_json.png)
 
 2. Copy the JSON to your clipboard.
 3. In Illustrator, run the script and paste the JSON when prompted.
